@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Fibonacci_Sequence","l":"Main"}];updateSearchResults();
